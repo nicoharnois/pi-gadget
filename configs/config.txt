@@ -49,6 +49,3 @@ dtoverlay=vc4-fkms-v3d,cma-128
 #dtparam=act_led_trigger=heartbeat
 #dtparam=pwr_led_trigger=mmc0
 
-# Config settings specific to arm64
-arm_64bit=1
-dtoverlay=dwc2
