@@ -45,6 +45,9 @@ the two Raspberry Pi architectures(_armhf_ and _arm64_):
 * 22-arm64 - the branch for Core 22 on arm64
 * 22-armhf - the branch for Core 22 on armhf
 * 24 - the branch for Core 24 on arm64 (**default**)
+* 24-armhf - the branch for Core 24 on armhf
+* 26 - the branch for Core 26 on arm64
+* 26-armhf - the branch for Core 26 on armhf
 * classic - the branch for Ubuntu Server images (universal gadget)
 * desktop - the branch for Ubuntu Desktop images (universal gadget)
 
